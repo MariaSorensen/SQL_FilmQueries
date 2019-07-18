@@ -58,7 +58,7 @@ Hint: https://dev.mysql.com/doc/refman/5.7/en/show-create-table.html
 
 6e. Using the tables payment and customer and the JOIN command, list the total paid by each customer. List the customers alphabetically by last name:
 
-![Image of total_payment.png](https://github.com/MariaSorensen/SQL_FilmQueries/tree/master/Images/total_payment.png)
+![Image of total_payment.png](../master/Images/total_payment.png)
 
 
 7a. The music of Queen and Kris Kristofferson have seen an unlikely resurgence. As an unintended consequence, films starting with the letters K and Q have also soared in popularity. Use subqueries to display the titles of movies starting with the letters K and Q whose language is English.
