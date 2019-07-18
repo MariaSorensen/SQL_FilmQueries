@@ -1,6 +1,8 @@
 # SQL Movie Rentals
 ## Using the Sakila database for Microsoft SQL Server - a Movie Rentals DB originally written for MySQL;
 
+![Image of MovieRentals](../master/Images/MovieRentals.jpg)
+
 1a. Display the first and last names of all actors from the table actor.
 
 
